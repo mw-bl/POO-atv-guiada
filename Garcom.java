@@ -1,3 +1,7 @@
 public class Garcom {
-    int num_mesas;
+    int numeroMesas;
+
+    public Garcom(int numeroMesas) {
+        this.numeroMesas = numeroMesas;
+    }
 }
